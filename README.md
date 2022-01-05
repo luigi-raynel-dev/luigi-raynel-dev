@@ -4,7 +4,6 @@
 
 - 🔭 Estou em busca da minha primeira vaga como dev
 - 🌱 Estou estudando React Native e Laravel
-- 😄 Pronomes: Ele/dele
 ### **☕  A necessidade básica do coração humano durante uma grande crise é uma boa caneca de café quente**
 
 <div align="center">
