@@ -2,8 +2,8 @@
 
 ***Aqui estão algumas coisas básicas sobre mim...***
 
-- 🔭 Estou em busca da minha primeira vaga como dev
-- 🌱 Estou estudando React Native e Laravel
+- 🔭 Trabalho como desenvolvedor Full Stack com foco em PHP na Made In Web
+- 🌱 Trabalho com Slim Framework e React
 ### **☕  A necessidade básica do coração humano durante uma grande crise é uma boa caneca de café quente**
 
 <div align="center">
