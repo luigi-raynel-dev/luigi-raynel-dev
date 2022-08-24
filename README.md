@@ -3,8 +3,7 @@
 ***Aqui estão algumas coisas básicas sobre mim...***
 
 - 🔭 Trabalho como desenvolvedor Full Stack com foco em PHP na Made In Web
-- 🌱 Trabalho com Slim Framework e React
-### **☕  A necessidade básica do coração humano durante uma grande crise é uma boa caneca de café quente**
+- 🌱 Trabalho com Lumen ou Slim Framework e React
 
 <div align="center">
   <a href="https://github.com/luigi-raynel-dev">
