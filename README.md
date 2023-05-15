@@ -2,21 +2,19 @@
 
 ***Aqui estão algumas coisas básicas sobre mim...***
 
-- 🔭 Trabalho como desenvolvedor Full Stack com foco em PHP na Made In Web
-- 🌱 Trabalho com Lumen ou Slim Framework e React
+- 🔭 Trabalho como desenvolvedor Full Stack com foco em PHP e React na MadeIn Web
+- 🌱 Minha stack em geral é o PHP com Lumen ou Slim e React com Typescript
+- ⚛ No front end gosto de usar Material UI, TailwindCSS ou Bootstrap
+- 💎 No Back end tenho experiência com Lumen PHP, Slim PHP e Laravel PHP, além de trabalhar algumas vezes com NodeJS e Python
+- 📱 No Mobile tenho experiência em React Native com Expo usando geralmente o NativeBase
+- 🐳 Em meus projetos Docker é lei
+- 🎓 Tenho estudado NodeJs com TDD, DDD, Clean Architecture, SOLID e Micro Serviçoes
+
 
 <div align="center">
   <a href="https://github.com/luigi-raynel-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luigi-raynel-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigi-raynel-dev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luigi-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Luigi-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Luigi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luigi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luigi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luigi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
    ##
