@@ -8,7 +8,7 @@
 - 💎 No Back end tenho experiência com Lumen PHP, Slim PHP e Laravel PHP, além de trabalhar algumas vezes com NodeJS e Python
 - 📱 No Mobile tenho experiência em React Native com Expo usando geralmente o NativeBase
 - 🐳 Em meus projetos Docker é lei
-- 🎓 Tenho estudado NodeJs com TDD, DDD, Clean Architecture, SOLID e Micro Serviçoes
+- 🎓 Tenho estudado NodeJs com TDD, DDD, Clean Architecture, SOLID e Micro Serviços
 
 
 <div align="center">
