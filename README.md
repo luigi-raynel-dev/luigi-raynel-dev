@@ -14,6 +14,7 @@ I mainly work with **PHP (Laravel & Hyperf)** and I’m currently making a strat
 ![Hyperf](https://img.shields.io/badge/Hyperf-00B894?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🎨 Front-end & Mobile
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,6 +32,7 @@ I mainly work with **PHP (Laravel & Hyperf)** and I’m currently making a strat
 
 #### 🗄️ Databases & Cache
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -42,6 +44,11 @@ I mainly work with **PHP (Laravel & Hyperf)** and I’m currently making a strat
 
 #### 🧪 Tests & Quality
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge)
+
+### AI & Automations
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 ---
 
