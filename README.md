@@ -1,15 +1,5 @@
 ### Olá! Eu sou o Luigi Raynel 👋
 
-***Aqui estão algumas coisas básicas sobre mim...***
-
-- 🔭 Trabalho como desenvolvedor Full Stack com foco em PHP e React na MadeIn Web
-- 🌱 Minha stack em geral é o PHP com Lumen ou Slim e React com Typescript
-- ⚛ No front end gosto de usar Material UI, TailwindCSS ou Bootstrap
-- 💎 No Back end tenho experiência com Lumen PHP, Slim PHP e Laravel PHP, além de trabalhar algumas vezes com NodeJS e Python
-- 📱 No Mobile tenho experiência em React Native com Expo usando geralmente o NativeBase
-- 🐳 Em meus projetos Docker é lei
-- 🎓 Tenho estudado NodeJs com TDD, DDD, Clean Architecture, SOLID e Micro Serviços
-
 
 <div align="center">
   <a href="https://github.com/luigi-raynel-dev">
