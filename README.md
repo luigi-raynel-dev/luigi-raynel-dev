@@ -38,12 +38,10 @@ I mainly work with **PHP (Laravel & Hyperf)** and I’m currently making a strat
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 #### 🧪 Tests & Quality
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge)
-
-### 🚀 Devops
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 ---
 
